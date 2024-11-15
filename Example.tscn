@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://dqu81d046qb3u"]
+
+[ext_resource type="Script" path="res://IsoMapper.gd" id="1_inahj"]
+
+[node name="IsoMapper" type="Node2D"]
+script = ExtResource("1_inahj")
+output_path = "/home/pablo/OneDrive/Documents/GameDev/godot4/IsoMapper"
+grid_side = null
